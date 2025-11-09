@@ -1,6 +1,6 @@
 # FinScope Backend
 
-TypeScript Express API with MongoDB (repository pattern) and market data service.
+TypeScript Express API with MongoDB and market data service.
 
 ## Features
 - Holdings repository (Mongo via Mongoose, swappable via interface)
